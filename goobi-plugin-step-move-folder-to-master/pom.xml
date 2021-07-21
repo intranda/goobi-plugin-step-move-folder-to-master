@@ -44,5 +44,9 @@
   </dependencies>
   <modules>
     <module>module-main</module>
-  </modules>
+</modules>
+<scm>
+    <url>scm:git:ssh://git@gitea.intranda.com:goobi-workflow/goobi-plugin-step-move-folder-to-master.git</url>
+    <connection>scm:git:ssh://git@gitea.intranda.com:goobi-workflow/goobi-plugin-step-move-folder-to-master.git</connection>
+  </scm>
 </project>
