@@ -89,7 +89,7 @@ public class MoveMasterToMediaFolderPlugin implements IStepPluginVersion2 {
                 }
             }
 
-        } catch (IOException | InterruptedException | SwapException | DAOException e) {
+        } catch (IOException | SwapException | DAOException e) {
             log.error(e);
             return false;
         }
